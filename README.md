@@ -1,2 +1,6 @@
 # buaa_OS_2024_shares
-including reviews and reports of all labs
+Include reviews and reports of all labs.
+
+**COPY WITH CAUTION**!
+
+The correctness of the content is not guaranteed.
